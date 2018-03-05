@@ -9,5 +9,4 @@ without downloading anything.
 If you like it and would like to get it running on your computer
 there will be a Jupyter notebook for that in the future.
 
-For now, go [here](https://mybinder.org/v2/gh/arianned\
-ee/python_tutorial/master) and start at lesson 1.
+For now, go [here](https://mybinder.org/v2/gh/ariannedee/python_tutorial/master) and start at lesson 1.
